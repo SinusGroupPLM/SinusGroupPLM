@@ -1,4 +1,4 @@
-- 👋 Вас приветствует фирма Sinus Group.
+👋 Вас приветствует фирма Sinus Group.
 
 Наш сайт: https://sinusgroup.ru/
 
